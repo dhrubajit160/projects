@@ -1,0 +1,57 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #81CACF;
+}
+
+h1 {
+  margin: 30px;
+  font-family: Titillium Web;
+  text-shadow: 0px 5px #232931;
+  font-size: 8rem;
+  color: #355764;
+}
+
+p {
+  font-size: 3rem;
+  color: #FFEA11;
+  font-family: Pacifico;
+}
+
+img {
+  background-color: black;
+  width: 80%;
+  border: solid 5px;
+  border-radius: 15%;
+}
+footer{
+  text-align: center;
+  margin-top: 5%;
+}
+.lastHeading{
+
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  color: #232931;
+  font-size: 2rem;
+}
+.hidden{
+  color: #5A8F7B;
+  font-size: 2.2rem;
+  font-family: Maven Pro;
+}
+.lastLine{
+  font-size: 4rem;
+  font-family:  'Indie Flower', cursive;
+  color:#232931;
+}
